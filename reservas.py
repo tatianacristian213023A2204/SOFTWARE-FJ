@@ -1,3 +1,4 @@
+
 # ==============================================
 # PROYECTO: SOFTWARE FJ
 # ARCHIVO: reservas.py
@@ -5,7 +6,10 @@
 # ==============================================
 
 from entidades import Entidad
-from excepciones import ReservaInvalidaError, OperacionNoPermitidaError
+from excepciones import (
+    ReservaInvalidaError,
+    OperacionNoPermitidaError
+)
 
 
 class Reserva(Entidad):
@@ -20,7 +24,12 @@ class Reserva(Entidad):
         if servicio is None:
             raise ReservaInvalidaError("Debe seleccionar un servicio.")
 
-        servicio.validar_parametros(duracion)
+        try:
+            servicio.validar_parametros(duracion)
+        except Exception as error:
+            raise ReservaInvalidaError(
+                "No fue posible validar los datos de la reserva."
+            ) from error
 
         self.__cliente = cliente
         self.__servicio = servicio
