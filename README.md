@@ -62,3 +62,12 @@ El desarrollo de Software FJ permite aplicar los fundamentos de la programacion 
 Se implementaron validaciones, excepciones personalizadas, herencia, polimorfismo y almacenamiento de registros en archivos de texto.
 
 El proyecto permitió fortalecer los conocimientos de Python y el trabajo colaborativo.
+## Integrantes del proyecto
+
+- Tatiana Cardenas: Desarrollo y diseño del sistema.
+- Cristian Pabon: Desarrollo, pruebas y validación del sistema.
+
+## Participación colaborativa
+
+El proyecto se desarrolla mediante GitHub, utilizando control de versiones
+para registrar los cambios y aportes de cada integrante.
