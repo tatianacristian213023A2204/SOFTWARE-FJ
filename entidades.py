@@ -6,6 +6,7 @@
 # ==============================================
 
 from abc import ABC, abstractmethod
+from excepciones import ParametroFaltanteError
 
 
 class Entidad(ABC):
@@ -15,21 +16,31 @@ class Entidad(ABC):
     """
 
     def __init__(self, identificador):
-        if not identificador:
-            raise ValueError("El identificador no puede estar vacio.")
 
-        self.__identificador = identificador
+        if identificador is None or identificador == "":
+            raise ParametroFaltanteError(
+                "El identificador es obligatorio."
+            )
 
-    # Propiedad para consultar el identificador
+        if not isinstance(identificador, str):
+            raise ParametroFaltanteError(
+                "El identificador debe ser texto."
+            )
+
+        if not identificador.strip():
+            raise ParametroFaltanteError(
+                "El identificador no puede contener solo espacios."
+            )
+
+        self.__identificador = identificador.strip()
+
     @property
     def identificador(self):
         return self.__identificador
 
-    # Metodo abstracto para obtener informacion
     @abstractmethod
     def obtener_informacion(self):
         pass
 
-    # Representacion general de la entidad
     def __str__(self):
         return f"Entidad: {self.__identificador}"

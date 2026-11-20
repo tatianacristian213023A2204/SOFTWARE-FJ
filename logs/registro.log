@@ -13,3 +13,261 @@
 2026-11-20 14:03:33,665 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
 2026-11-20 14:03:33,665 - INFO - Prueba 13: Segunda reserva creada.
 2026-11-20 14:03:33,665 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 15:31:25,649 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 15:31:25,649 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 15:31:25,650 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 15:31:25,651 - INFO - Prueba 3 finalizada.
+2026-11-20 15:31:25,651 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 15:31:25,652 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 15:31:25,653 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 15:31:25,653 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 15:31:25,654 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 15:31:25,654 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 15:31:25,655 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 15:31:25,656 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 15:31:25,656 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 15:31:25,657 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 15:31:25,657 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 15:45:29,969 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 15:45:29,970 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 15:45:29,971 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 15:45:29,971 - INFO - Prueba 3 finalizada.
+2026-11-20 15:45:29,971 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 15:45:29,972 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 15:45:29,972 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 15:45:29,973 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 15:45:29,974 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 15:45:29,976 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 15:45:29,976 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 15:45:29,977 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 15:45:29,978 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 15:45:29,979 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 15:45:29,980 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:07:57,619 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:07:57,620 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:07:57,620 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:07:57,621 - INFO - Prueba 3 finalizada.
+2026-11-20 16:07:57,621 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:07:57,621 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:07:57,621 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:07:57,622 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:07:57,622 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:07:57,622 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:07:57,623 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:07:57,624 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:07:57,624 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:07:57,624 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:07:57,624 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:10:50,111 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:10:50,111 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:10:50,112 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:10:50,112 - INFO - Prueba 3 finalizada.
+2026-11-20 16:10:50,112 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:10:50,112 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:10:50,112 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:10:50,113 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:10:50,113 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:10:50,113 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:10:50,114 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:10:50,114 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:10:50,114 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:10:50,115 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:10:50,115 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:12:28,187 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:12:28,187 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:12:28,188 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:12:28,188 - INFO - Prueba 3 finalizada.
+2026-11-20 16:12:28,188 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:12:28,189 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:12:28,189 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:12:28,189 - ERROR - Prueba 6.1: El costo base debe ser mayor que cero.
+2026-11-20 16:12:28,190 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:12:28,190 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:12:28,190 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:12:28,191 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:12:28,191 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:12:28,192 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:12:28,192 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:12:28,193 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:20:54,545 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:20:54,545 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:20:54,546 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:20:54,546 - INFO - Prueba 3 finalizada.
+2026-11-20 16:20:54,546 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:20:54,546 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:20:54,547 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:20:54,547 - ERROR - Prueba 6.1: El costo base debe ser mayor que cero.
+2026-11-20 16:20:54,547 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:20:54,548 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:20:54,548 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:20:54,548 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:20:54,548 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:20:54,549 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:20:54,549 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:20:54,549 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:23:08,995 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:23:08,996 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:23:08,996 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:23:08,996 - INFO - Prueba 3 finalizada.
+2026-11-20 16:23:08,997 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:23:08,997 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:23:08,997 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:23:08,997 - ERROR - Prueba 6.1: El costo base debe ser mayor que cero.
+2026-11-20 16:23:08,998 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:23:08,998 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:23:08,998 - ERROR - Prueba 8.1: No se puede reservar un servicio no disponible.
+2026-11-20 16:23:08,998 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:23:08,999 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:23:08,999 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:23:08,999 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:23:08,999 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:23:09,000 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:23:09,000 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:23:21,328 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:23:21,329 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:23:21,330 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:23:21,330 - INFO - Prueba 3 finalizada.
+2026-11-20 16:23:21,330 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:23:21,331 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:23:21,332 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:23:21,336 - ERROR - Prueba 6.1: El costo base debe ser mayor que cero.
+2026-11-20 16:23:21,337 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:23:21,338 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:23:21,338 - ERROR - Prueba 8.1: No se puede reservar un servicio no disponible.
+2026-11-20 16:23:21,338 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:23:21,338 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:23:21,339 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:23:21,339 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:23:21,339 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:23:21,340 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:23:21,340 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:28:07,910 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:28:07,911 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:28:07,912 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:28:07,912 - INFO - Prueba 3 finalizada.
+2026-11-20 16:28:07,915 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:28:07,916 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:28:07,916 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:28:07,916 - ERROR - Prueba 6.1: El costo base debe ser un numero mayor que cero.
+2026-11-20 16:28:07,917 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:28:07,918 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:28:07,918 - ERROR - Prueba 8.1: No fue posible validar los datos de la reserva.
+2026-11-20 16:28:07,918 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:28:07,918 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:28:07,919 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:28:07,919 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:28:07,919 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:28:07,919 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:28:07,919 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:29:23,986 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:29:23,987 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:29:23,988 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:29:23,988 - INFO - Prueba 3 finalizada.
+2026-11-20 16:29:23,988 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:29:23,989 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:29:23,989 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:29:23,990 - ERROR - Prueba 6.1: El costo base debe ser un numero mayor que cero.
+2026-11-20 16:29:23,990 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:29:23,990 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:29:23,991 - ERROR - Prueba 8.1: No se puede reservar un servicio no disponible.
+2026-11-20 16:29:23,991 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:29:23,992 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:29:23,992 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:29:23,993 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:29:23,993 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:29:23,993 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:29:23,994 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:30:52,158 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:30:52,159 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:30:52,160 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:30:52,160 - INFO - Prueba 3 finalizada.
+2026-11-20 16:30:52,161 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:30:52,161 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:30:52,162 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:30:52,162 - ERROR - Prueba 6.1: El costo base debe ser un numero mayor que cero.
+2026-11-20 16:30:52,163 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:30:52,163 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:30:52,164 - ERROR - Prueba 8.1: No se puede reservar un servicio no disponible.
+2026-11-20 16:30:52,164 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:30:52,164 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:30:52,165 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:30:52,165 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:30:52,165 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:30:52,166 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:30:52,166 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:31:45,806 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:31:45,806 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:31:45,806 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:31:45,806 - INFO - Prueba 3 finalizada.
+2026-11-20 16:31:45,806 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:31:45,807 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:31:45,807 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:31:45,807 - ERROR - Prueba 6.1: El costo base debe ser un numero mayor que cero.
+2026-11-20 16:31:45,807 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:31:45,807 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:31:45,808 - ERROR - Prueba 8.1: No se puede reservar un servicio no disponible.
+2026-11-20 16:31:45,808 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:31:45,808 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:31:45,809 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:31:45,810 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:31:45,812 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:31:45,812 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:31:45,813 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:34:59,179 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:34:59,181 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:34:59,182 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:34:59,183 - INFO - Prueba 3 finalizada.
+2026-11-20 16:34:59,188 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:34:59,191 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:34:59,192 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:34:59,193 - ERROR - Prueba 6.1: El costo base debe ser un numero mayor que cero.
+2026-11-20 16:34:59,193 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:34:59,193 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:34:59,193 - ERROR - Prueba 8.1: No se puede reservar un servicio no disponible.
+2026-11-20 16:34:59,194 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:34:59,194 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:34:59,195 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:34:59,199 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:34:59,200 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:34:59,200 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:34:59,201 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:37:46,982 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:37:46,983 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:37:46,983 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:37:46,983 - INFO - Prueba 3 finalizada.
+2026-11-20 16:37:46,983 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:37:46,983 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:37:46,984 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:37:46,984 - ERROR - Prueba 6.1: El costo base debe ser un numero mayor que cero.
+2026-11-20 16:37:46,984 - INFO - Prueba 7: Calculo de costo realizado.
+2026-11-20 16:37:46,984 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:37:46,984 - ERROR - Prueba 8.1: No se puede reservar un servicio no disponible.
+2026-11-20 16:37:46,984 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:37:46,985 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:37:46,985 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:37:46,985 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:37:46,985 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:37:46,986 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:37:46,986 - INFO - Prueba 14: Reserva cancelada.
+2026-11-20 16:43:45,916 - INFO - Prueba 1: Cliente creado correctamente.
+2026-11-20 16:43:45,917 - INFO - Prueba 2: Segundo cliente creado correctamente.
+2026-11-20 16:43:45,918 - ERROR - Prueba 3: El correo electronico no es valido.
+2026-11-20 16:43:45,919 - INFO - Prueba 3 finalizada.
+2026-11-20 16:43:45,921 - ERROR - Prueba 3.1: El identificador es obligatorio.
+2026-11-20 16:43:45,921 - INFO - Prueba 4: Servicio de sala creado.
+2026-11-20 16:43:45,922 - INFO - Prueba 5: Servicio de equipos creado.
+2026-11-20 16:43:45,923 - INFO - Prueba 6: Servicio de asesoria creado.
+2026-11-20 16:43:45,924 - ERROR - Prueba 6.1: El costo base debe ser un numero mayor que cero.
+2026-11-20 16:43:45,924 - INFO - Prueba 7: Calculo basico realizado.
+2026-11-20 16:43:45,925 - INFO - Prueba 7.1: Calculo con impuesto realizado.
+2026-11-20 16:43:45,925 - INFO - Prueba 7.2: Calculo con impuesto y descuento realizado.
+2026-11-20 16:43:45,926 - ERROR - Prueba 8: La duracion del alquiler debe ser mayor que cero.
+2026-11-20 16:43:45,927 - ERROR - Prueba 8.1: No se puede reservar un servicio no disponible.
+2026-11-20 16:43:45,927 - INFO - Prueba 8.1 finalizada.
+2026-11-20 16:43:45,928 - INFO - Prueba 9: Reserva creada correctamente.
+2026-11-20 16:43:45,928 - INFO - Prueba 10: Reserva confirmada.
+2026-11-20 16:43:45,929 - INFO - Prueba 10: Confirmacion ejecutada sin errores.
+2026-11-20 16:43:45,931 - INFO - Prueba 11: Reserva procesada.
+2026-11-20 16:43:45,934 - ERROR - Prueba 12: Solo se pueden cancelar reservas pendientes.
+2026-11-20 16:43:45,935 - INFO - Prueba 13: Segunda reserva creada.
+2026-11-20 16:43:45,935 - INFO - Prueba 14: Reserva cancelada.
